@@ -481,3 +481,5 @@ def feladat40():
 
     if number_12 == number_13: print('Nyert')
     else: print('Nem nyert')
+
+feladat40()
